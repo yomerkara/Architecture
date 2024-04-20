@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2024-04-20T16:51:57.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oyicJQ2spwhqhrj7w3SK" version="24.0.1" type="github">
+  <diagram name="Sayfa -1" id="JA5c7v_yoL1oPgA15vM8">
+    <mxGraphModel dx="5239" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="35" y="250" width="730" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="270" width="680" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Project Architecture&lt;/font&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338" y="200" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-5" target="cinWrjkbamXe7Dz9zGmG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Notion&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1- Every article firstly land in the Notion Workspace.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;2- We can use AI efficient writing skills to brush up on our articles.&lt;br&gt;3-As a final step publish the article into Medium.&lt;br&gt;4- We need to inform our followers about upcoming/new article.&lt;br&gt;5- Get feedback.&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="911" y="315" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-7" target="cinWrjkbamXe7Dz9zGmG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-684.37" y="415" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-695.62" y="310" width="71.25" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="cinWrjkbamXe7Dz9zGmG-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-930" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-11" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="-970" y="420" width="52.09" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-15" target="cinWrjkbamXe7Dz9zGmG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-15" target="cinWrjkbamXe7Dz9zGmG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="445" />
+              <mxPoint x="-730" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-15" target="cinWrjkbamXe7Dz9zGmG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;shape=link;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-15" target="cinWrjkbamXe7Dz9zGmG-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_streaming_ingestion;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="415" width="54.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-20" target="cinWrjkbamXe7Dz9zGmG-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/line-christmas-icons/75/_snowflake-128.png" vertex="1" parent="1">
+          <mxGeometry x="-686.5600000000001" y="520" width="64.37" height="64.37" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="-442.5" y="315" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_ml;" vertex="1" parent="1">
+          <mxGeometry x="-457.5" y="495" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-29" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Data Ingestions&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1- Spark&lt;br&gt;2- DBT&lt;br&gt;3- Airflow&lt;br&gt;4- Talend&lt;br&gt;5- Altryx&lt;br&gt;6- Fivetran&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-897.6800000000001" y="660" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-31" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;OnPreme&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1-Hadoop&lt;br&gt;2-Iceberg&lt;br&gt;3-NoSQL(MongoDB, Cassandra..)&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="90" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-32" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Cloud Solutions&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1- AWS Technologies&lt;br&gt;2- Snowflake&lt;br&gt;3- Databricks&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="670" width="182.32" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.426;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;dashed=1;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-8" target="cinWrjkbamXe7Dz9zGmG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-38" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ML Workloads&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="495" width="182.32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-39" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;BI Tools&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-564.8199999999999" y="315" width="182.32" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-28" target="cinWrjkbamXe7Dz9zGmG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-41" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Design Thinking&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="440" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-41" target="cinWrjkbamXe7Dz9zGmG-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-1" target="cinWrjkbamXe7Dz9zGmG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-52" target="cinWrjkbamXe7Dz9zGmG-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="385.69" width="190" height="118.61" as="geometry" />
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cinWrjkbamXe7Dz9zGmG-56" target="cinWrjkbamXe7Dz9zGmG-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1749" y="950" />
+              <mxPoint x="-1230" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cinWrjkbamXe7Dz9zGmG-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wordvice-wp-static.s3-ap-northeast-1.amazonaws.com/uploads/2019/01/LinkedIn_HP.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="410.62" width="137.5" height="68.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
